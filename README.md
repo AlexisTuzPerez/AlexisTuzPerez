@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 It Engineer Student at Anahuac Mayab University<br>☕️ I'm looking to collaborate on Java proyects <br>🌱 Currently Learning SpringBoot Framework <br>⚽️ Love soccer and gym<br>🧮 Maths has always been my favorite subject 
+👨‍💻 IT Engineer Student at Anahuac Mayab University<br>☕️ I'm looking to collaborate on Java proyects <br>🌱 Currently Learning SpringBoot Framework <br>⚽️ Love soccer and gym<br>🧮 Maths has always been my favorite subject 
 
 
 ## 🌐 Socials:
